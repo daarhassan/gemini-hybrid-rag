@@ -42,7 +42,7 @@ class TermColors:
     BOLD = '\033[1m'
 
 # Configuration
-API_KEY = "AIzaSyAJomzd4F9N0D_j-Dv19z5NuHo-YLyPaH0" # Paste key here if needed
+API_KEY = "" # Paste key here if needed
 DB_DIR = "vector_store_db" 
 INDEX_FILE = os.path.join(DB_DIR, "index.faiss")
 METADATA_FILE = os.path.join(DB_DIR, "metadata.pkl")
