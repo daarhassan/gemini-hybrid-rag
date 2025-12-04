@@ -1,0 +1,8 @@
+langchain-google-genai
+langchain
+langgraph
+langchain-community
+faiss-cpu
+pypdf
+rank_bm25
+langchain-text-splitters
